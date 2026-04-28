@@ -11,10 +11,14 @@
             "id": "3a77333a7efbe334",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-04-28.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-04-28"
             }
           }
         ]
@@ -177,8 +181,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8286a3bf2a6794e1",
+  "active": "3a77333a7efbe334",
   "lastOpenFiles": [
+    "Daily Notes/2026-04-28.md",
     "Templates/Diário Dev.md",
     "Templates",
     "Nodus-Docs/Images/iPhones/iPhones.md",
@@ -223,7 +228,6 @@
     "Hugo/Nodus-Docs/Docs/MIGRATION-SUMMARY.md",
     "Hugo/Nodus-Docs/Docs/ADMIN-DASHBOARD-GUIDE.md",
     "Hugo/Nodus-Docs/Images/iPhones/iPhones.md",
-    "Hugo/Nodus-Docs/Wireframes/produto-wireframe.md",
-    "Hugo/Nodus-Docs/Wireframes/checkout-wireframe.md"
+    "Hugo/Nodus-Docs/Wireframes/produto-wireframe.md"
   ]
 }
