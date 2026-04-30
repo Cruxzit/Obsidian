@@ -1,8 +1,8 @@
 ---
 
-## data: 28-04-2026 dia: Tuesday semana: 18 humor: energia: tags: [diário]
+## data: {{date:DD-MM-YYYY}} dia: {{date:dddd}} semana: {{date:W}} humor: energia: tags: [diário]
 
-# 📅 28 22 April 22 2026
+# 📅 {{date:DD de MMMM de YYYY}}
 
 ---
 
@@ -38,8 +38,6 @@ _Projectos, tópicos ou áreas activas hoje:_
 
 - **Projecto / Área:**
 
-Hoje estou a configurar o git do obsidian
-
 ---
 
 ## 📝 Notas & Registos do Dia
@@ -73,4 +71,4 @@ _Links, ficheiros, notas relacionadas:_
 
 ---
 
-_Nota criada às 16:59_
+_Nota criada às {{time:HH:mm}}_
